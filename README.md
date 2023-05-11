@@ -10,6 +10,7 @@ I have been reluctant to put TV shows into my Plex library due to the time it ta
 To use the PlexFormatBot simply place one season of any TV show in the folder labled In. They can be in seperate folders (such as sorting them by disk) or just put in as loose files.  
 ![image](https://user-images.githubusercontent.com/58759972/137047637-cd482f2c-1e87-4192-b3ec-87ea4c6a60be.png)
 ![image](https://user-images.githubusercontent.com/58759972/137047933-8889927f-26f9-4122-96a6-5bac76995da4.png)
+
 The files themselves do not have to be named anything in particular all that matters is that they are in the correct order. You should have the files such that they look as if they go from the first episode to the last from the perspective of you in file explorer. Once all the files are in the In folder, just double click on the file that is named the same as your opperating system (Windows.bat for example). Give the program a while to run and the new files will appear in the folder labled Out. Throw them into your Plex TV library and your all done!
 Note: This program will not delete the origional files in the in folder so make sure to clear them before doing a new season! 
 
