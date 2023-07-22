@@ -3,7 +3,7 @@
 ## Goal
 The goal of this bot is to reformat entire seasons at a time to be compatible with Plex.
 
-## Explination
+## Explanation
 I have been reluctant to put TV shows into my Plex library due to the time it takes to transcode all of the episodes and rename them properly. This is designed to specifically cut down on that. It will properly name all of your files and transcode them for playing on Plex. 
 
 ## Usage
